@@ -1,0 +1,30 @@
+build_status:
+  image_url: https://github.com/chirag127/ContentLens-Media-Recommendation-Engine-CLI-Tool/actions/workflows/ci.yml
+  text: Build Status
+  alt_text: Build Status
+  style: flat-square
+coverage:
+  image_url: https://codecov.io/gh/chirag127/ContentLens-Media-Recommendation-Engine-CLI-Tool
+  text: Code Coverage
+  alt_text: Code Coverage
+  style: flat-square
+tech_stack:
+  image_url: https://img.shields.io/badge/Python-3.10%2B-blue?style=flat-square&logo=python
+  text: Python
+  alt_text: Python
+  style: flat-square
+lint_format:
+  image_url: https://img.shields.io/badge/Ruff-Formatted-008000?style=flat-square&logo=ruff
+  text: Ruff
+  alt_text: Ruff Formatted
+  style: flat-square
+license:
+  image_url: https://img.shields.io/badge/License-CC BY-NC 4.0-orange?style=flat-square&logo=creativecommons
+  text: License
+  alt_text: CC BY-NC 4.0 License
+  style: flat-square
+github_stars:
+  image_url: https://img.shields.io/github/stars/chirag127/ContentLens-Media-Recommendation-Engine-CLI-Tool?style=flat-square&logo=github
+  text: GitHub Stars
+  alt_text: GitHub Stars
+  style: flat-square
